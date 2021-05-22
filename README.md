@@ -1,5 +1,6 @@
 # Whatsapp-Clone - React Native
 One-to-one chat application
+Note - Educational Purpose Only
 
 ## Demo Images
 
